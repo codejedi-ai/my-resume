@@ -1,0 +1,8 @@
+.experience-header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.experience-dates {
+  text-align: right;
+}

@@ -1,0 +1,13 @@
+.aws-certs {
+    position: relative;
+  }
+  
+  .certs-images {
+    position: absolute;
+    top: 0;
+    right: 0;
+  }
+  
+  .cert-image {
+    margin-left: 10px;
+  }
