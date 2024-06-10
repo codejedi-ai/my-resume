@@ -33,7 +33,7 @@ its own component called "Header"
 
 
 
-const certs = ['/aws-prac.png', '/aws-dev.png']; // Paths to the images in the public folder
+const certs = ['./aws-prac.png', './aws-dev.png']; // Paths to the images in the public folder
 
 ReactDOM.render(<AwsCerts certs={certs} />, document.getElementById('AWSCerts'));
 ReactDOM.render(<Page />, document.getElementById("root"))
